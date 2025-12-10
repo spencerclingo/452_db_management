@@ -28,9 +28,3 @@ I learned how to...
 1. How to attach different entities together to appear as one singular entity.
 1. How to write a MySQL flyway migration with foreign keys and how to create a domain object in Spring JPA to force a directional parent-child relationship in the database.
 1. How to use the primitives API for labels, billboards, and polylines (even if we decided against it for maintainability)
-
----
-
-https://teams.microsoft.com/l/message/19:ac4bc382e82e4ef6a3b61989d55cf4b8@thread.tacv2/1762201027122?tenantId=c6fc6e9b-51fb-48a8-b779-9ee564b40413&groupId=89222c8a-2991-4873-8d7d-10b1cacaebf4&parentMessageId=1762201027122&teamName=CS%20452%20001%20(Fall%202025)&channelName=Report%20-%20Project%20Pitch&createdTime=1762201027122
-
-No, please don't share this with future classes.
