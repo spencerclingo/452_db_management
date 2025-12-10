@@ -4,7 +4,7 @@
 
 ## Project Summary
 
-My project was taking an existing 2D graph and projecting it into a 3D space onto a globe using Cesium. Then, users can move their nodes around in a geo-spacial context, allowing us to calculate a probability of connection over a WiFi network given the distance between a node and a router.
+My project was taking an existing 2D graph and projecting it into a 3D space onto a globe using Cesium. Then, users can move their nodes around in a geo-spacial context, allowing us to calculate a probability of connection over a WiFi network given the distance between a node and a router. Those locations are stored in a database, which is used for the calculations and for placing the nodes back on the map if the user leaves and comes back to the feature.
 
 ## Knowledge Gained
 
